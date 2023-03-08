@@ -1,4 +1,3 @@
-```
 # Arduino-Matlab-Control
 
 This project is a Matlab script that can control a Nema 17 stepper motor using an Arduino CNC Shield V3 and an A4988 driver.
@@ -14,14 +13,6 @@ To use this project, you need to have Matlab and Arduino IDE installed on your c
 
 If you encounter any error messages such as "Port: COM Port is not available. No ports are available.", try running `fclose(instrfind);` in Matlab.
 
-## Contributors and License
-
-This project was created by [your name] as a personal project. You are free to use, modify, and distribute it as you wish.
-
-## Contact and Feedback
-
-If you have any questions or suggestions about this project, please feel free to contact me at [your email] or leave an issue on GitHub.
-```
 
 (1) Stepper Motors and Arduino - The Ultimate Guide - How To Mechatronics. https://howtomechatronics.com/tutorials/arduino/stepper-motors-and-arduino-the-ultimate-guide/
 (2) Arduino CNC Shield Tutorial - Control Stepper Motors using CNC Shield V3.0 - YouTube. https://www.youtube.com/watch?v=zUb8tiFCwmk
