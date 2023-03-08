@@ -12,8 +12,3 @@ To use this project, you need to have Matlab and Arduino IDE installed on your c
 4. Enter 1 to move up, 2 to move down, 3 to move right, 4 to move left, or 0 to stop and disconnect.
 
 If you encounter any error messages such as "Port: COM Port is not available. No ports are available.", try running `fclose(instrfind);` in Matlab.
-
-
-(1) Stepper Motors and Arduino - The Ultimate Guide - How To Mechatronics. https://howtomechatronics.com/tutorials/arduino/stepper-motors-and-arduino-the-ultimate-guide/
-(2) Arduino CNC Shield Tutorial - Control Stepper Motors using CNC Shield V3.0 - YouTube. https://www.youtube.com/watch?v=zUb8tiFCwmk
-(3) Nema 17 Stepper Motor with Arduino CNC Sheild V3 (A4988 Driver) - YouTube. https://www.youtube.com/watch?v=ARyKDo_fzHU
